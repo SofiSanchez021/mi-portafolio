@@ -11,3 +11,6 @@ node_modules/
 # Archivos del sistema operativo 
 .DS_Store
 Thumbs.db
+
+config.local.json
+respaldos/
