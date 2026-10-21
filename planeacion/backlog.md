@@ -53,8 +53,10 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-<!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces -->
-- [ ] TODO
+<!--  escribe mínimo 3 criterios con el formato Dado / cuando / entonces -->
+- [ ] Dado que llego al final de la página, cuando miro la parte inferior, entonces veo un pie de página con el año y mi nombre.
+- [ ] Dado que estoy en el pie de página, cuando hago clic en un enlace de red social, entonces se abre en una pestaña nueva.
+- [ ] Dado que estoy en el pie de página, cuando leo los enlaces, entonces veo al menos dos redes.
 
 **Issue:** #
 
@@ -68,9 +70,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-<!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
+<!-- escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿el enlace abre en una pestaña nueva? ¿Qué texto muestra? -->
-- [ ] TODO
+- [ ] 
 
 **Issue:** #
 
@@ -84,9 +86,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 **Criterios de aceptación:**
 
-<!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
+<!--  escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿qué pasa con las 3 tarjetas en una pantalla de menos de 600 px? -->
-- [ ] TODO
+- [ ] 
 
 **Issue:** #
 
@@ -94,18 +96,18 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 ## HU-06 · (RETO) Escribe tu propia historia
 
-<!-- TODO (RETO): reemplaza el título y escribe tu propia historia de usuario.
+<!-- (RETO): reemplaza el título y escribe tu propia historia de usuario.
      Debe tener: Historia (Como / quiero / para), Etiquetas, Estimación,
      mínimo 3 criterios Dado / cuando / entonces y el número de su issue.
      Ideas: botón "volver arriba", modo oscuro, descargar hoja de vida,
      formulario de contacto, foto de perfil, sección de estudios. -->
 
-**Historia:** TODO
+**Historia:** 
 
-**Etiquetas:** TODO · **Estimación:** TODO
+**Etiquetas:**   **Estimación:** 
 
 **Criterios de aceptación:**
 
-- [ ] TODO
+- [ ] 
 
 **Issue:** #
