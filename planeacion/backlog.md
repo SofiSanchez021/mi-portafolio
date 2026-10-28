@@ -72,7 +72,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 <!-- escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿el enlace abre en una pestaña nueva? ¿Qué texto muestra? -->
-- [ ] 
+- [ ] Dado que estoy en la seccion de proyectos, cuando miro cada tarjeta, entonces veo un enlace con el texto "ver codigo"
+- [ ] Dado a que veo el enlace "ver codigo", cuando hago clic, entonces se abre el repositorio de github en una pestana nueva 
+- [ ] Dado que estoy en la seleccion de proyectos, cuando cuento las tarjetas, entonces las tres tienen su enlace 
 
 **Issue:** #
 
@@ -88,7 +90,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 <!--  escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿qué pasa con las 3 tarjetas en una pantalla de menos de 600 px? -->
-- [ ] 
+- [ ] Dado a que abro el portafolio en una pantalla de menos de 600px, dado al llegar a la seleccion de proyectos, entinces las tres tarjetas se ven una debajo de la otra.
+- [ ] Dado a que abro el portafolio en una pantalla de menos de 600px, cuando leo cualquier seccion, entonces no necesio hacer zoom para leer el texto.
+- [ ] Dado a que abro el portafolio en una pantalla de menos de 600px, cuando deslizo la pagina, entonces no aparece scroll horizontal 
 
 **Issue:** #
 
