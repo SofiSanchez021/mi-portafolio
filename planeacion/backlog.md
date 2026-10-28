@@ -90,7 +90,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 <!--  escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿qué pasa con las 3 tarjetas en una pantalla de menos de 600 px? -->
-- [ ] Dado a que abro el portafolio en una pantalla de menos de 600px, dado al llegar a la seleccion de proyectos, entinces las tres tarjetas se ven una debajo de la otra.
+- [ ] Dado a que abro el portafolio en una pantalla de menos de 600px, cuando llego a la seccion de proyectos, entonces las 3 tarjetas se ven una debajo de la otra.
 - [ ] Dado a que abro el portafolio en una pantalla de menos de 600px, cuando leo cualquier seccion, entonces no necesio hacer zoom para leer el texto.
 - [ ] Dado a que abro el portafolio en una pantalla de menos de 600px, cuando deslizo la pagina, entonces no aparece scroll horizontal 
 
